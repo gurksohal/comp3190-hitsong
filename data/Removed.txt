@@ -1,0 +1,5 @@
+Removed the data due to its large size
+
+dataset was retreived from: http://millionsongdataset.com/pages/getting-dataset/
+
+this folder should contains data from millionsongsubset_full.tar\millionsongsubset_full\MillionSongSubset\data
